@@ -7,3 +7,4 @@ Sales by State — full state-level sales breakdown across all 49 US states/terr
 Unique Customer Count — count of distinct customers by year (2014–2017)
 Dashboard — a single-view summary combining the above into visual charts
 Tools/skills used: Excel PivotTables, SUMIFS/COUNTIFS-style aggregation, and dashboard/chart design.
+![Dashboard](ExcelDashboard.png)
